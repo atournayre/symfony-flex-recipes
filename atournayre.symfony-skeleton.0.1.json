@@ -1,0 +1,16 @@
+{
+  "manifests": {
+    "atournayre/symfony-skeleton": {
+      "manifest": {
+        "copy-from-recipe": {
+          "src/": "%SRC_DIR%/"
+        },
+        "post-install-output": [
+          "  * Symfony Skeleton is installed. You can now start building your app!",
+          "  * Use custom Assertions, edit <info>src/Assert/Assert.php</info>"
+        ]
+      },
+      "ref": "41156f0c9be6517434f1b04d1c3ccf7f652f2af6%"
+    }
+  }
+}

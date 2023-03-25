@@ -1,0 +1,14 @@
+{
+  "recipes": {
+    "atournayre/symfony-skeleton": [
+      "0.1"
+    ]
+  },
+  "branch": "master",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/atournayre/symfony-flex-recipes",
+    "origin_template": "{package}:{version}@github.com/atournayre/symfony-flex-recipes:master",
+    "recipe_template": "https://api.github.com/repos/atournayre/symfony-flex-recipes/contents/{package_dotted}.{version}.json"
+  }
+}
